@@ -31,7 +31,7 @@ git clone https://github.com/Rai-Ali-Yar/portfolio.git
 ```
 
 2. **Navigate to the project directory**:
-```bash
+
 cd portfolio
 ```
 
@@ -46,7 +46,7 @@ code .
 ---
 
 ## 🌍 Live Demo
-👉 [Portfolio Live Link](https://rai-ali-yar.github.io/portfolio/)  
+👉 [Portfolio Live Link](https://rai-ali-yar.github.io/portfolio)  
 
 ---
 
