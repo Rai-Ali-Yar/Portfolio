@@ -46,7 +46,7 @@ code .
 ---
 
 ## 🌍 Live Demo
-👉 [Portfolio Live Link](https://rai-ali-yar.github.io/portfolio/)  
+👉 [Portfolio Live Link](https://rai-ali-yar.github.io/Portfolio/)  
 
 ---
 
